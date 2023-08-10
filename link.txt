@@ -1,0 +1,3 @@
+https://madewithlove.com/blog/modern-front-end-monorepos-part-1-managing-dependencies-and-sharing-code-2/
+https://madewithlove.com/blog/modern-front-end-monorepos-part-2-running-scripts/
+https://vercel.com/guides/deploying-yarn-monorepos-to-vercel#deploy-to-vercel
