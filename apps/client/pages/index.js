@@ -1,7 +1,7 @@
-import { Header } from 'ui';
+import { Header } from 'ui'
 
 const Home = () => {
-  return <Header>client</Header>
+  return <Header>client!!!</Header>
 }
 
-export default Home;
+export default Home
