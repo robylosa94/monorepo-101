@@ -1,7 +1,7 @@
-import { Header } from 'ui';
+import { Header } from 'ui'
 
 const Home = () => {
-  return <Header>admin</Header>
+  return <Header>admin!!!!</Header>
 }
 
-export default Home;
+export default Home
